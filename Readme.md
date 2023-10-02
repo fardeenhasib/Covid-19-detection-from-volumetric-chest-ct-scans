@@ -1,6 +1,6 @@
 This is a possible README.md file summarizing the current report:
 
-# COVID-19 Diagnosis with 3D CNN and Lung-CT Segmentation¹[1]
+# COVID-19 Diagnosis with 3D CNN and Lung-CT Segmentation
 
 This repo presents a method for diagnosing COVID-19 from lung CT scans using 3D convolutional neural networks (CNNs) and lung segmentation. The report describes the data, preprocessing, methodology, and findings of the method.
 
